@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OMC
+.omc/
+
+# Local reports
+# (uncomment to ignore generated reports)
+# *.md
+
+# Exceptions
+!.gitignore
+!README.md
+!CLAUDE.md
+!skills/**/*.md
