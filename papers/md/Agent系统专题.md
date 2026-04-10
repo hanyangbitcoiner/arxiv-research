@@ -4,10 +4,6 @@ date: 2026-04-09
 type: topic
 tags:
   - Agent
-  - 记忆
-  - 安全
-  - 知识管理
-  - 技能学习
 ---
 
 # Agent 系统专题
@@ -29,6 +25,7 @@ tags:
 **arxiv:** [2604.07269](https://arxiv.org/abs/2604.07269)
 **作者:** Bingxuan Li, Simo Du, Yue Guo
 **日期:** 2026-04-08
+**标签:** 记忆、强化学习
 
 ### 核心问题
 
@@ -149,6 +146,7 @@ class DualMemoryAgent:
 **arxiv:** [2604.07223](https://arxiv.org/abs/2604.07223)
 **作者:** Yen-Shan Chen et al.
 **日期:** 2026-04-08
+**标签:** 安全、风险评估
 
 ### 核心问题
 
@@ -276,6 +274,7 @@ class TraceSafeBenchmark:
 **arxiv:** [2604.04804](https://arxiv.org/abs/2604.04804)
 **作者:** Chenxi Wang et al.
 **日期:** 2026-04-06
+**标签:** 知识管理、技能学习
 
 ### 核心问题
 
