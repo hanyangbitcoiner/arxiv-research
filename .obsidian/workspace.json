@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2773065524691c",
+        "id": "de3f66d88d7887c0",
         "type": "tabs",
         "children": [
           {
-            "id": "8c515887257682ad",
+            "id": "df3b03bf12ac98fe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 1 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -116,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 1 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -159,21 +150,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "92d3467031ddfd78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,19 +184,25 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c515887257682ad",
+  "active": "a30d592b129000bc",
   "lastOpenFiles": [
-    "papers/README.md",
-    "papers/md/推理优化专题.md",
     "papers/长上下文专题/README.md",
     "papers/长上下文专题/pi2.md",
+    "papers/2604.03957.pdf",
+    "papers/md/2604.03957-BWTA-二值化Transformer.md",
+    "papers/模型压缩专题/BWTA.md",
+    "未命名 1.canvas",
+    "papers/README.md",
+    "papers/md/推理优化专题.md",
     "papers/推理优化专题/README.md",
     "papers/推理优化专题/Cactus.md",
     "papers/模型压缩专题/README.md",
-    "papers/模型压缩专题/BWTA.md",
     "papers/模型压缩专题/MoBiE.md",
     "papers/Agent系统专题/README.md",
     "papers/Agent系统专题/SkillX.md",
@@ -205,7 +212,6 @@
     "papers/推理优化专题",
     "papers/模型压缩专题",
     "papers/Agent系统专题",
-    "未命名 1.canvas",
     "papers/md/模型压缩专题.md",
     "papers/md/2604.07223-TraceSafe-安全护栏.md",
     "papers/md/长上下文专题.md",
@@ -218,7 +224,6 @@
     "deep-research-report-2026-04-09.md",
     "papers/md/README.md",
     "papers/md/2604.05114-pi2-长上下文推理.md",
-    "papers/md/2604.03957-BWTA-二值化Transformer.md",
     "papers/md"
   ]
 }
